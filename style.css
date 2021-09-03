@@ -103,7 +103,9 @@ hr {
     max-width: 350px;
     display: block;
     margin: auto;
+    
 }
+
 
 .hero .hero-heading {
     text-align: center;
@@ -144,3 +146,5 @@ hr {
 .footer ul{
     padding-inline-start: 0px;
 }
+
+
